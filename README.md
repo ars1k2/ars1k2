@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Arseniy
 
-- ##### 🔞 I am 13 years old
 - ##### 🐍 I learn Python
 - ##### 💪 I like to write code
 - ##### 📚 I am constantly learning new things
